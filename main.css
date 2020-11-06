@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+#main {
+    margin: 15px;
+    padding: 10px 50px 50px 50px;
+    background: #eee;
+}
+
+#image-div {
+    background: white;
+    padding: 10px;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li {
+    margin: 16px 0;
+}
+
+blockquote {
+    font-style: italic;
+    text-align: left;
+}
